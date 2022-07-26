@@ -15,11 +15,12 @@ Provide a short description explaining the what, why, and how of your project. U
 - What did you learn?
     I learned how to implements basics of JavaScripts into a new file. I learned about the console.log and how useful it can be in troubeshooting my javascript. I also learned about storing data in an empty array. 
 
-
 ## Usage
 
+screenshot of my password generator with the prompt up. 
 
-    
+md![alt text](assets/screenshot.png)
+    ```
 
 ## Credits
 
