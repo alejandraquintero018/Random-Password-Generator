@@ -13,9 +13,11 @@ Provide a short description explaining the what, why, and how of your project. U
     Problems within the code that solved were figuring out how to store the final password into an array, how to ensure that the password contained all of the criteria that the user wanted. As well as ensuring that the user was able to control how many characters went into the password. 
 
 - What did you learn?
-    I learned how to implements basics of JavaScripts into a new file. I learned about the console.log and how useful it can be in troubeshooting my javascript. I also learned about storing data in an empty array. 
+    I learned how to implements basics of JavaScripts into a new file. I learned about the console.log and how useful it can be in troubeshooting my javascript. I also learned about storing data in an empty array, to later be able to display it.
 
 ## Usage
+
+When the user clicks the button, "Generate Password", then the user is given a series of prompts each of which will ask the user of a different criteria regarding the random password. The user will also be asked how long the password should be, then be given a random password with the criteria that they chose. 
 
 screenshot of my password generator with the prompt up. 
 
